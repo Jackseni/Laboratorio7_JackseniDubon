@@ -1,0 +1,23 @@
+{
+    "name": "laboratorio7_jacksenidubon",
+    "version": "1.0.0",
+    "description": "Laboratorio 7 ",
+    "main": "index.js",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Jackseni/Laboratorio7_JackseniDubon.git"
+    },
+    "author": "Jackseni Dubon",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Jackseni/Laboratorio7_JackseniDubon/issues"
+    },
+    "homepage": "https://github.com/Jackseni/Laboratorio7_JackseniDubon#readme"
+}
